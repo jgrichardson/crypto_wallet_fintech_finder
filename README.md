@@ -6,19 +6,16 @@ This is a FinTech marketplace where people can list services and their hourly ra
 
 App Home Page
 
-![App Home Page](Images/home.png)
 
 Transaction Sent
 
-![Transaction Sent](Images/Sent_Transaction_Proof.png)
 
 Transaction Proof
 
-![Transaction Proof](Images/Transaction_Sent_Proof.png)
+
 
 Balance Proof
 
-![Balance Proof](Images/Balance_Proof.png)
 
 ## Dependencies
 
